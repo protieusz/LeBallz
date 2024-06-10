@@ -17,7 +17,7 @@ June 9, 2024: Gerber sent to JLCPC for print and no pcba service was done. I wil
 
 # Fusion360 & EasyEDA Renders:
 
-![Screenshot 2024-06-08 at 10 56 28 PM](https://github.com/protieusz/LeBallz/assets/118025702/2ae4532c-a592-4fd3-91c2-000180d1cb17)
+![Screenshot 2024-06-10 at 8 48 10 AM](https://github.com/protieusz/LeBallz/assets/118025702/f6aacd01-3b04-4b44-97b9-329c6fb0066c)
 ![Screenshot 2024-06-08 at 10 56 44 PM](https://github.com/protieusz/LeBallz/assets/118025702/fefbf7b6-34a4-45d8-b7fa-9dedd347316e)
 ![Screenshot 2024-06-09 at 6 13 11 PM](https://github.com/protieusz/LeBallz/assets/118025702/7db2d55c-6dab-41c9-b44f-42f26aa4bfbb)
 ![Screenshot 2024-06-09 at 6 13 38 PM](https://github.com/protieusz/LeBallz/assets/118025702/b742727d-61f4-4a21-b0a3-cba10b56c080)
