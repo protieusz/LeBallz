@@ -15,13 +15,19 @@ LeBallz, a variant of Le-Chiffre that has a 25mm trackball, 34 or 35 key and opt
 # Timeline
 June 9, 2024: Gerber sent to JLCPC for print and no pcba service was done. I will self pcba on my own with whatever components I have left. Probably no extra pcba will be done. Case files are sent to the local library for 3DP.
 
-# Fusion360 & EasyEDA Renders:
+# Fusion360 & EasyEDA Renders
 
 ![Screenshot 2024-06-10 at 8 48 10 AM](https://github.com/protieusz/LeBallz/assets/118025702/f6aacd01-3b04-4b44-97b9-329c6fb0066c)
 ![Screenshot 2024-06-08 at 10 56 44 PM](https://github.com/protieusz/LeBallz/assets/118025702/fefbf7b6-34a4-45d8-b7fa-9dedd347316e)
 ![Screenshot 2024-06-09 at 6 13 11 PM](https://github.com/protieusz/LeBallz/assets/118025702/7db2d55c-6dab-41c9-b44f-42f26aa4bfbb)
 ![Screenshot 2024-06-09 at 6 13 38 PM](https://github.com/protieusz/LeBallz/assets/118025702/b742727d-61f4-4a21-b0a3-cba10b56c080)
 ![Screenshot 2024-06-09 at 6 14 18 PM](https://github.com/protieusz/LeBallz/assets/118025702/c4a239a4-ebe7-454a-af3b-c67791452a9c)
+
+# Credit
+
+Original Le-Chiffre design by https://github.com/tominabox1/Le-Chiffre-Keyboard?tab=readme-ov-file
+
+Case & PCB files modded from sporkus. https://github.com/sporkus/le_chiffre_keyboard_stm32
 
 # License
 Since the pcb dxf outline & case file mod were taken from sporkus's Github, hence the my licensing follows his.
