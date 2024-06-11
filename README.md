@@ -32,4 +32,4 @@ Original Le-Chiffre design by https://github.com/tominabox1/Le-Chiffre-Keyboard?
 Case & PCB files modded from sporkus. https://github.com/sporkus/le_chiffre_keyboard_stm32
 
 # License
-Since the pcb dxf outline & case file mod were taken from sporkus's Github, hence the my licensing follows his.
+Since the pcb dxf outline & case file mod were taken from sporkus's Github, hence the licensing follows his.
